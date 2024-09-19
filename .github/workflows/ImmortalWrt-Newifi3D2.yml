@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build immortalwrt-Newifi3D2
+name: ImmortalWrt-Newifi3D2
 
 on:
   repository_dispatch:
