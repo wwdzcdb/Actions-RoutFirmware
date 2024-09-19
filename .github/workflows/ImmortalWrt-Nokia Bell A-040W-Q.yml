@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build immortalwrt - Nokia Bell A-040W-Q
+name: ImmortalWrt - Nokia Bell A-040W-Q
 
 on:
   repository_dispatch:
